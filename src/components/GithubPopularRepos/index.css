@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.filters {
+  display: flex;
+  justify-content: space-around;
+  width: 50vw;
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
+
+.heading {
+  font-family: 'Lobster';
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+.failure-text {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+}
+.failure-img {
+  width: 400px;
+}
+.items-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

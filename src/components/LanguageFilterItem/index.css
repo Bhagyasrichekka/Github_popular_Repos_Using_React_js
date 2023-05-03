@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.filter-item {
+  list-style-type: none;
+}
+
+.invisible-btn {
+  background-color: transparent;
+  border-style: none;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 18px;
+}
+.style {
+  border: 2px solid #0284c7;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+  color: #0284c7;
+  border-radius: 15px;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 18px;
+}
+button {
+  cursor: pointer;
+}
